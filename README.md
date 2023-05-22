@@ -1,1 +1,1 @@
-# Machine-learning-Campus_X
+# Machine-learning
